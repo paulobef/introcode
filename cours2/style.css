@@ -1,0 +1,31 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: #F4495D;
+  font-size: 25px;
+  font-family: 'Playfair Display', serif;
+}
+h1{
+  font-family: 'Faster One', cursive;
+  color: red;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Faster One', cursive;
+  color: pink;
+  font-weight: lighter;
+  font-size: 60px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+nav:hover {
+  background-color: pink;
+
+}
