@@ -59,7 +59,7 @@ a:hover {
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #41A3C0;
+  background-color: #61C9A8;
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -84,6 +84,7 @@ a:hover {
   width: 80%;
   display:flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 #baseline a:hover {
   position: relative;
