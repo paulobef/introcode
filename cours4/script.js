@@ -22,7 +22,7 @@ welcome();
 
 function loadChallenges() {
   $.ajax(
-        {url : 'https://s3.eu-central-1.amazonaws.com/spintransfer/challenge.json',
+        {url : 'https://api.myjson.com/bins/11ir5j',
         type: 'GET',
         dataType: 'json'} 
   )
