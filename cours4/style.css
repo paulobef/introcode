@@ -91,14 +91,14 @@ a:hover {
   top:1px;
 }
 
-.feature {
+.feature,.defi{
   border: 1px solid #F2F2F2;
+  background: #FAFAFA;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
   width: 400px;
-  background: #FAFAFA;}
-
+}
 .red {
   color: red;
 }
